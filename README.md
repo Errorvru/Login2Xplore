@@ -1,19 +1,8 @@
 # Login2Xplore 
-##Student Form
-  Student from program added in Master Branch
-  
-Required Sections:
+##Student Details
 
-Title of the Project
-Description
-Benefits of using JsonPowerDB
-Release History (release of your JsonPowerDB related code on Github)
-Additional you can have:
+### in this project create some points details collected and should be store data in the database.
 
-Table of contents
-Illustrations
-Scope of functionalities
-Examples of use
-Project status
-Sources
-Other information
+-Benefits of using JsonPowerDB: Multiple times faster than popular DBMS. Serverless support for faster development - A UI developer can develop complete dynamic application.
+*JsonPowerDB is a Database Server with Developer friendly REST API services. It's a High Performance, Light Weight, Ajax Enabled, Serverless, Simple to Use, Real-time Database.
+
